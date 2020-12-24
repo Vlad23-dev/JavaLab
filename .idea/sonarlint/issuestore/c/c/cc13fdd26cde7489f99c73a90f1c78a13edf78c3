@@ -1,0 +1,18 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Æäåşÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ“°¹
+?
+java:S1172"&Remove these unused method parameters.(éş”Ûûÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(¾“H
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¼¬Ë£
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(’¡Ôòúÿÿÿÿ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+Z	java:S107"BConstructor has 11 parameters, which is greater than 7 authorized.(÷œøæıÿÿÿÿ
+S
+java:S1161":Add the "@Override" annotation above this method signature(ãëš²ÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Â¯±°şÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(äİ¯¢
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øô¯
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øô¯
+?
+java:S1172"&Remove these unused method parameters.(÷œøæıÿÿÿÿ

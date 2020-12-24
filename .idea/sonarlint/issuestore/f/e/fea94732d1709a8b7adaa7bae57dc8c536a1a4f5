@@ -1,0 +1,14 @@
+
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(« Ø·
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ƒüµ
+B
+java:S3740"/Provide the parametrized type for this generic.(£¶P
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™µÚŞùÿÿÿÿ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+U
+java:S3066"<Lower the visibility of this setter or remove it altogether.(‚ıÜíøÿÿÿÿ
+N
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê
+B
+java:S3740"/Provide the parametrized type for this generic.(Éˆ·
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ±ŞÎÿÿÿÿÿ

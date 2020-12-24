@@ -1,0 +1,23 @@
+
+L
+java:S1612",Replace this lambda with a method reference.(ëşÅ½ùÿÿÿÿ8¯±éé.
+@
+java:S1905"'Remove this unnecessary cast to "List".(õÄ¾úıÿÿÿÿ
+@
+java:S1612",Replace this lambda with a method reference.(®¢Íä
+H
+java:S3740"/Provide the parametrized type for this generic.(™Ú½üÿÿÿÿ
+M
+java:S4973"9Use the "equals" method if value comparison was intended.(êŠ©Ë
+M
+java:S4973"9Use the "equals" method if value comparison was intended.(êŠ©Ë
+H
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(åÈ´÷ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¸ŸáÓ
+E
+java:S1612",Replace this lambda with a method reference.(õÄ¾úıÿÿÿÿ
+G
+java:S1612",Replace this lambda with a method reference.(®¢Íä8¯±éé.
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¤‡º°

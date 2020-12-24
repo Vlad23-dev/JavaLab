@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17c2f615-3852-45de-8a8c-5796122f3539" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lUXzmurAjO4WgObidojxBM3lDA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Labs_java\src\test\java\Classes" />
+      <recent name="C:\Users\User\IdeaProjects\Labs_java\src\test" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn surefire plugin -unit test" />
+      <command value="mvn test" />
+      <command value="mvn surefire:integration-test" />
+      <command value="mvn surefire: -unit test" />
+      <command value="mvn surefire -unit test" />
+      <command value="mvn failsafe:integration-test" />
+      <command value="mvn surefire:test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Main" />
+      <module name="Labs_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemBlockIT.getMaxRAM_IT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labs_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.SystemBlockIT" />
+      <option name="METHOD_NAME" value="getMaxRAM_IT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemBlockIT.getMaxRAM_IT_whenValueIsIllegal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labs_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.SystemBlockIT" />
+      <option name="METHOD_NAME" value="getMaxRAM_IT_whenValueIsIllegal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemBlockIT.getRAMsByTypeTest_whenValueIsInValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labs_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.SystemBlockIT" />
+      <option name="METHOD_NAME" value="getRAMsByTypeTest_whenValueIsInValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemBlockIT.getRAMsByTypeTest_whenValueIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labs_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.SystemBlockIT" />
+      <option name="METHOD_NAME" value="getRAMsByTypeTest_whenValueIsValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemBlockIT.sumRAMFrequencyByTypeIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labs_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Classes" />
+      <option name="MAIN_CLASS_NAME" value="Classes.SystemBlockIT" />
+      <option name="METHOD_NAME" value="sumRAMFrequencyByTypeIT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SystemBlockIT.sumRAMFrequencyByTypeIT" />
+        <item itemvalue="JUnit.SystemBlockIT.getMaxRAM_IT_whenValueIsIllegal" />
+        <item itemvalue="JUnit.SystemBlockIT.getMaxRAM_IT" />
+        <item itemvalue="JUnit.SystemBlockIT.getRAMsByTypeTest_whenValueIsInValid" />
+        <item itemvalue="JUnit.SystemBlockIT.getRAMsByTypeTest_whenValueIsValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17c2f615-3852-45de-8a8c-5796122f3539" name="Default Changelist" comment="" />
+      <created>1607652908005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607652908005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="77" key="#Project_Settings" timestamp="1608764987985">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#Project_Settings/0.0.1536.834@0.0.1536.834" timestamp="1608764987985" />
+    <state x="361" y="77" key="#Project_Structure" timestamp="1608261222354">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608261222354" />
+    <state x="361" y="77" key="#SonarLint" timestamp="1608763983538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#SonarLint/0.0.1536.834@0.0.1536.834" timestamp="1608763983538" />
+    <state x="499" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1608814864183">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1608814864183" />
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608250278424">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608250278424" />
+    <state x="93" y="93" width="1350" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1608735613514">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.834@0.0.1536.834" timestamp="1608735613514" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1608250256597">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1608250256597" />
+    <state x="493" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1608249331098">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="493" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1608249331098" />
+    <state x="566" y="278" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608816926085">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="566" y="278" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1608816926085" />
+    <state x="176" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608820196053">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="176" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1608820196053" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1608683429024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608683429024" />
+    <state width="1493" height="193" key="GridCell.Tab.0.bottom" timestamp="1608830565299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="193" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608830565299" />
+    <state width="1493" height="193" key="GridCell.Tab.0.center" timestamp="1608830565299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="193" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608830565299" />
+    <state width="1493" height="193" key="GridCell.Tab.0.left" timestamp="1608830565298">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="193" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608830565298" />
+    <state width="1493" height="193" key="GridCell.Tab.0.right" timestamp="1608830565299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="193" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608830565299" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608735625433">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608735625433" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1608735625433">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608735625433" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1608735625432">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608735625432" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1608735625433">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608735625433" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1608777155771">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608777155771" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1608811578747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1608811578747" />
+    <state x="498" y="312" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607672452313">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="312" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1607672452313" />
+    <state x="209" y="39" key="new project wizard" timestamp="1608174833854">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608174833854" />
+    <state x="242" y="174" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx" timestamp="1608763583344">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="242" y="174" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx/0.0.1536.834@0.0.1536.834" timestamp="1608763583344" />
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1608830403949">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1608830403949" />
+    <state x="163" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1608249177453">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="163" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608249177453" />
+    <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1608245547873">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1608245547873" />
+  </component>
+</project>
